@@ -1,0 +1,45 @@
+
+.Fheader {
+    text-align: center;
+    margin-top: -20px;
+    #Logo{
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 100px;
+        box-shadow: 1px 1px 7px 2px rgb(61, 54, 61);
+        margin: justify;
+    }
+    }
+    #dev{
+        background-color: rgba(192, 240, 114, 0.801);
+        border-radius: 5px 10px;
+    }
+nav {
+    li{
+        display: inline;
+        margin-right: 20px;
+        border: 2px solid orange;
+        border-radius: 4px;
+        background-color: rgb(240, 163, 20);
+        
+        a{
+            text-decoration: none;
+            padding: 3px;
+            color: White;
+            
+        }
+    }
+    text-align: center;   
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    }
+  
+  footer {
+    margin-top: auto;
+    text-align: center;
+    background-color: rgb(243, 239, 239);
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+        }
